@@ -1388,7 +1388,7 @@ ol.nested>li:before {
 
 @media screen and (min-width: 1200px) {
   .flex-item-stretch {
-    flex: 1;
+    flex: 2;
   }
 
   .flex-item-stretch-2 {
