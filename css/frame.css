@@ -483,8 +483,8 @@ hr {
 
 .image img,
 .image video {
-  width: 200%;
-  height: 200%;
+  width: 100%;
+  height: 100%;
   box-sizing: border-box;
   display: table-cell;
   overflow: hidden;
