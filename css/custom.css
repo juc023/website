@@ -15,12 +15,16 @@
   flex: 1 auto;
 }
 
+.flex-item-stretch-7 {
+  flex: 1 auto;
+}
+
 .max-width-600 {
   max-width: 900px;
 }
 
 .max-width-900 {
-  max-width: 1500px;
+  max-width: 1000px;
 }
 
 @media screen and (min-width: 900px) {
